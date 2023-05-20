@@ -1,0 +1,13 @@
+Interview  Questions:
+
+1.self introduction.(Rating : 10)
+2.What You Know about Java?(Rating 10)
+3.Coulud You please explain regarding about Exception Handling in java?(Rating 10)
+4.Difference between Array & ArrayList?(Rating 8)
+5.Differnce between Hash map & Hash concurrenr map?(Rating 5)
+6.What is meant by thread safety?(Rating 8)
+7.Differnet between String Reader()&String Buffer?(Rating 8)
+8.Differnce between comparator & comparable in java?(Rating 6)
+9. what you Know about git hub?(Rating 10)
+10.what you know about git commands?(Rating 10)
+11.Differnce between Exception vs Error?(Rating 9)
